@@ -1,0 +1,106 @@
+.lc-center {
+    color: #777777;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 15px;
+    line-height: 24px;
+    padding: 10px;
+    justify-content: center;
+    text-align: center;
+}
+
+.lc-center1,
+.lc-center2,
+.lc-center3 {
+    background-color: #ffffff;
+    color: #777777;
+    border: 2px solid #333;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 0px 20px;
+}
+
+.lc-center1 h4 {
+    color: #242424;
+    font-family: Lexend Deca;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 23.4px;
+    margin: 0px 0px 10px;
+    text-align: left;
+}
+
+.lc-center2 h4 {
+    color: #242424;
+    font-family: Lexend Deca;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 23.4px;
+    margin: 0px 0px 10px;
+    text-align: left;
+}
+
+.lc-center3 h4 {
+    color: #242424;
+    font-family: Lexend Deca;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 23.4px;
+    margin: 0px 0px 10px;
+    text-align: left;
+}
+
+.lh-content {
+    color: #777777;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: left;
+}
+
+.lh-content p {
+    color: #777777;
+    font-family: Open Sans;
+    font-size: 15px;
+    line-height: 24px;
+    margin: 0px 0px 10px;
+    text-align: left;
+}
+
+.lc-down {
+    font-size: 15px;
+    line-height: 24px;
+    padding: 10px;
+}
+
+.yeu-cau {
+    color: #777777;
+    flex-wrap: wrap;
+    font-size: 15px;
+    line-height: 24px;
+    padding: 10px;
+    border: 2px solid #333;
+    border-radius: 10px;
+}
+
+.yeu-cau h4 {
+    color: #242424;
+    display: inline-block;
+    font-family: Lexend Deca;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 33.6px;
+    text-align: left;
+}
+
+.yeu-cau input {
+    width: 983px;
+    height: 42px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    color: #777777;
+    display: inline-block;
+    font-family: Open Sans;
+    font-size: 14px;
+    line-height: 22.4px;
+    padding: 0px 15px;
+}

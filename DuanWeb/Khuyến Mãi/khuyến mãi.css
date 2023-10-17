@@ -1,0 +1,51 @@
+#promosion {
+    background-color: #f6f6f6;
+}
+
+img {
+    border-radius: 5px;
+    width: 445px;
+    height: 280px;
+}
+
+#body {
+    display: flex;
+    flex-direction: column;
+}
+
+#body .box {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+#body .box1 {
+    margin-right: 20px;
+}
+
+#body .box1 {
+    position: relative;
+}
+
+#body .content {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+}
+
+#body .content p {
+    color: rgb(201, 201, 201);
+}
+
+#body .content h2 {
+    color: white;
+    width: 260px;
+}
+
+.title p {
+    color: rgb(132, 132, 132);
+}
+
+p {
+    width: 1380px;
+}
